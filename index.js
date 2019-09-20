@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ithelp-autosave
 // @namespace    https://github.com/dragonH/ithelp-autosave
-// @version      0.1
+// @version      0.2
 // @description  A script that can auto save editing article on ithelp
 // @author       dragonH
 // @match        https://ithelp.ithome.com.tw/articles/*
