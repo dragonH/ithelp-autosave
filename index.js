@@ -2,9 +2,9 @@
 // @name         ithelp-autosave
 // @namespace    https://github.com/dragonH/ithelp-autosave
 // @version      0.1
-// @description  try to take over the world!
+// @description  A script that can auto save editing article on ithelp
 // @author       dragonH
-// @match        https://ithelp.ithome.com.tw/articles/*/draft
+// @match        https://ithelp.ithome.com.tw/articles/*
 // @grant        none
 // ==/UserScript==
 
@@ -25,7 +25,7 @@
           }
         });
     }
-    console.log('autosave enabled!');
+    alert('Auto save 載入成功!');
   } catch (err) {
     throw err;
   }
