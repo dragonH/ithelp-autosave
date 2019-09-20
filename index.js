@@ -5,6 +5,7 @@
 // @description  A script that can auto save editing article on ithelp
 // @author       dragonH
 // @match        https://ithelp.ithome.com.tw/articles/*
+// @exclude      https://ithelp.ithome.com.tw/articles/*/edit
 // @grant        none
 // ==/UserScript==
 
